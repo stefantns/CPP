@@ -1,0 +1,4 @@
+nume camera: rosu
+numar facilitati: 2
+pret facilitate: 200
+camera nu are facilitati

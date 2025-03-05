@@ -1,0 +1,4 @@
+﻿  CameraHotel.cpp
+C:\Users\User\source\repos\CameraHotel\CameraHotel.cpp(174,6): error C2065: 'f': undeclared identifier
+C:\Users\User\source\repos\CameraHotel\CameraHotel.cpp(175,3): error C2065: 'f': undeclared identifier
+C:\Users\User\source\repos\CameraHotel\CameraHotel.cpp(176,3): error C2065: 'f': undeclared identifier

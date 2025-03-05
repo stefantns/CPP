@@ -1,0 +1,3 @@
+Nume client: -
+Numar produse comandate: 0
+Lista produse comandate: 
