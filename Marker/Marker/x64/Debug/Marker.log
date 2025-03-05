@@ -1,0 +1,4 @@
+﻿  Marker.cpp
+C:\Users\User\source\repos\Marker\Marker.cpp(147,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Marker\Marker.cpp(179,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Marker.vcxproj -> C:\Users\User\source\repos\Marker\x64\Debug\Marker.exe
